@@ -1,0 +1,67 @@
+html
+Define o início da estrutura da página que vai ser criada. Esta estrutura é dividida em duas partes partes definidas pelas tags head e body.
+
+head
+Uma das partes da tag html onde são inseridas informações do cabeçalho da página, essas informações são as configuração da página html, como por exemplo: definir o título da página e o idioma. Essas informações são pré-carregadas mas não são exibidas para o usuário no corpo da página.
+
+title
+define o título da página
+
+body
+onde todas as informações programadas são exibidas para o usuário.
+
+i
+deixa o texto com visual itálico
+
+strong
+deixa o texto com visual negrito
+
+u
+deixa o texto com visual sublinhado
+
+mark
+deixa o texto com visual de marca texto (com a cor de fundo em amarelo)
+
+sup
+deixa o texto com alinhamento mais acima, com o visual sobrescrito.
+
+
+input
+cria um campo para digitar, possui varios modos como text, number, email e password.  
+
+img
+Possibilita colocar uma imagem na página
+
+h1 a h6
+São cabeçalhos para marcar títulos no documento, possuem niveis do h1 ao h6 sendo o h1 com maior destaque e o h6 com menor destaque.
+
+p
+utilizado para inserir textos no documento
+
+blockquote
+o texto inserido nessa tag é visualizado no documento como uma citação.
+
+ol
+cria uma lista ordenada. É necessário a utilização da tag li para inserir os itens da lista. Por padrão, em cada item da lista é numerado em ordem crescente.
+
+ul
+cria uma lista não ordenada. Também é necessário a utilização da tag li para inserir os itens da lista. Por padrão, em cada item da lista é exibido um marcador circular (bolinha).
+
+li
+Utilizada juntamente com as tags ol ou ul para definir os itens da lista.
+
+a
+utilizado para direcionar a navegação para algum lugar, um elemento no site, outra página site ou até mesmo uma página em outro site, para isso tem que definifir o local de direcionamento do atributo href.
+
+hr
+cria uma linha separadora
+
+small
+cria um texto pequeno
+
+
+obs: indices por aula, colocar o botão (voltar) usando small e "a"
+fazer o site como se fosse um blog
+
+colocar referencias
+que falam sobre html

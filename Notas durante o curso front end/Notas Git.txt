@@ -1,0 +1,10 @@
+git restore +"nome do arquivo", restaura as alterações
+--ament (corrige a mensagem do commit)
+git reset - retorna para o commit anterior
+git log pega o hash do commit
+
+git checkout -b +"nome da branch"(cria uma nova branch)
+git branch -v (lista os ultimos commits de cada branch)
+git branch -d +"nome da branch" (exclui a branch)
+
+git stash arquiva a modificação
